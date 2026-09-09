@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 PostapocalypseDoctor/Binaries/Win64/D3D12/x64/D3D12Core.dll	2026-08-27T21:10:36.923Z
 PostapocalypseDoctor/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll	2026-08-27T21:10:36.935Z
 PostapocalypseDoctor/Binaries/Win64/DML/x64/DirectML.dll	2026-08-27T21:10:14.306Z
@@ -34,3 +35,41 @@ Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.dll	2026-08-2
 Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.json	2026-08-27T20:59:47.723Z
 PostapocalypseDoctor.exe	2026-09-08T15:10:15.926Z
 NOTICES.txt	2026-08-27T21:10:25.271Z
+=======
+PostapocalypseDoctor/Binaries/Win64/D3D12/x64/D3D12Core.dll	2026-08-29T01:21:19.611Z
+PostapocalypseDoctor/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll	2026-08-29T01:21:19.638Z
+PostapocalypseDoctor/Binaries/Win64/DML/x64/DirectML.dll	2026-08-29T01:02:15.395Z
+PostapocalypseDoctor/Binaries/Win64/PostapocalypseDoctor.exe	2026-09-09T00:16:12.805Z
+PostapocalypseDoctor/Binaries/Win64/tbb12.dll	2026-08-29T01:02:18.596Z
+PostapocalypseDoctor/Binaries/Win64/tbbmalloc.dll	2026-08-29T01:02:18.596Z
+Engine/Extras/Redist/en-us/vc_redist.x64.exe	2026-08-29T01:00:11.665Z
+Engine/Extras/Redist/en-us/vc_redist.arm64.exe	2026-08-29T01:00:11.556Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2026-08-29T00:59:15.451Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2026-08-29T00:59:20.037Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2026-08-29T00:59:20.063Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2026-08-29T00:59:20.070Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2026-08-29T00:59:23.935Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2026-08-29T00:59:23.936Z
+Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2026-08-29T00:59:24.101Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2026-08-29T00:59:24.102Z
+Engine/Content/Renderer/TessellationTable.bin	2026-08-29T00:59:51.820Z
+Engine/Content/Slate/Cursor/invisible.cur	2026-08-29T00:59:51.909Z
+Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll	2026-08-29T01:01:22.515Z
+Engine/Config/StagedBuild_PostapocalypseDoctor.ini	2026-09-09T00:18:32.586Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.dll	2026-08-29T00:59:23.938Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.json	2026-08-29T00:59:23.941Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.dll	2026-08-29T00:59:23.942Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.json	2026-08-29T00:59:23.943Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.dll	2026-08-29T00:59:23.945Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.json	2026-08-29T00:59:23.947Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.dll	2026-08-29T00:59:23.954Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.json	2026-08-29T00:59:23.955Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_shader_object.dll	2026-08-29T00:59:23.955Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_shader_object.json	2026-08-29T00:59:23.955Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.dll	2026-08-29T00:59:23.955Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.json	2026-08-29T00:59:23.956Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.dll	2026-08-29T00:59:24.032Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.json	2026-08-29T00:59:24.035Z
+PostapocalypseDoctor.exe	2026-09-09T00:18:32.559Z
+NOTICES.txt	2026-08-29T01:02:19.445Z
+>>>>>>> Stashed changes
