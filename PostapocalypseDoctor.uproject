@@ -16,7 +16,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MetaHumanRuntime",
+			"Name": "ControlRigDynamics",
 			"Enabled": true
 		},
 		{
@@ -38,7 +38,7 @@
 			]
 		},
 		{
-			"Name": "MetaHumanCoreTech",
+			"Name": "MetaHumanCharacter",
 			"Enabled": true
 		},
 		{
@@ -52,11 +52,15 @@
 			]
 		},
 		{
-			"Name": "MetaHumanCharacter",
+			"Name": "MetaHumanCoreTech",
 			"Enabled": true
 		},
 		{
 			"Name": "MetaHumanLiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "MetaHumanRuntime",
 			"Enabled": true
 		}
 	]
