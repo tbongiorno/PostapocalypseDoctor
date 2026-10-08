@@ -16,6 +16,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "MetaHumanRuntime",
+			"Enabled": true
+		},
+		{
 			"Name": "MetaHuman",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -53,10 +57,6 @@
 		},
 		{
 			"Name": "MetaHumanLiveLink",
-			"Enabled": true
-		},
-		{
-			"Name": "MetaHumanRuntime",
 			"Enabled": true
 		}
 	]
